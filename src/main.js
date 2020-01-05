@@ -49,7 +49,7 @@ class App {
         name,
         bio: biografia,
         avatar_url,
-        html_url
+        html_url: html_url + "?tab=repositories"
       });
 
       this.inputEl.value = "";
