@@ -1,24 +1,3 @@
 body {
   margin: 15px;
 }
-
-ul {
-  font-family: sans-serif;
-}
-li {
-  clear: both;
-  margin-top: 20px;
-}
-img {
-  width: 80px;
-  float: left;
-  margin-right: 10px;
-}
-
-p {
-  margin: 5px;
-}
-
-#formulario {
-  padding: 15px;
-}
